@@ -1,6 +1,6 @@
 # lab6_css_framework
 
-**Nama : Muhammad Iqbal**
+**Nama : M. Iqbal**
 
 **Nim : 312410212**
 
@@ -110,6 +110,7 @@
     <h1 class="text-center mt-5">Hello World!</h1>
 </body>
 ```
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ffed49d5-7fae-440f-8a36-754768ee590f" />
 
 # Langkah 3: Jumbotron / Hero Section
 ```html
@@ -140,6 +141,8 @@
         </div>
     </section>
 ```
+<img width="1919" height="877" alt="Screenshot 2025-10-27 211608" src="https://github.com/user-attachments/assets/0438845d-e77f-4342-ad92-8c29b3e7cf3f" />
+
 
 # Langkah 4: Grid untuk Konten dan Sidebar
 ```html
@@ -190,6 +193,9 @@
         </div>
     </div>
 ```
+<img width="1913" height="1003" alt="Screenshot 2025-10-27 211740" src="https://github.com/user-attachments/assets/6295d51c-5867-4b00-86cf-a7827918d918" />
+
+
 # Langkah 5: Main Content + Sidebar
 ```html
     <!-- Main Content -->
@@ -270,6 +276,8 @@
         </div>
     </div>
 ```
+<img width="1910" height="1034" alt="Screenshot 2025-10-27 212009" src="https://github.com/user-attachments/assets/afc3a30b-8a91-45d3-9a53-5802203efd38" />
+
 
 # Langkah 6 : footer modern
 ```html
@@ -300,4 +308,5 @@
 </body>
 </html>
 ```
+<img width="1918" height="1031" alt="Screenshot 2025-10-27 212054" src="https://github.com/user-attachments/assets/7b1b718c-bf62-48af-9346-9a0004413637" />
 
