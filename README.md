@@ -70,6 +70,8 @@
 </body>
 </html>
 ```
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/4b1c760a-6b62-4686-bb43-3e2c11d03a16" />
+
 # Langkah 2: Navbar
 ```html
 <body>
